@@ -4,7 +4,6 @@
 
 Whether you're building a hobby app, an indie project, or a production app without heavy analytics tools, EchoBox lets your users quickly tell you what they think right from the app.
 
----
 
 ## ✨ Why use EchoBox?
 
@@ -19,7 +18,6 @@ Many users never leave Play Store reviews or open external support channels. Ech
 All in under a minute.  
 No setup, no log collection, no complexity.
 
----
 
 ## 💡 Use Cases
 
@@ -28,13 +26,10 @@ No setup, no log collection, no complexity.
 - Gather lightweight feedback on design changes
 - Provide a fallback feedback option when no backend exists
 
----
-
 ## 📷 Screenshots
 
 
 
----
 
 ## 🛠 Features
 
@@ -44,7 +39,6 @@ No setup, no log collection, no complexity.
 - One line trigger from anywhere in your app
 - No need for complex analytics or feedback SDKs
 
----
 
 ## 🚧 What's next?
 
@@ -57,15 +51,14 @@ This is just the beginning. Planned features:
 
 Pull requests, feedback, and suggestions are welcome!
 
----
+
 
 ## 🙌 Built by @amitcodr
 
-EchoBox is an open-source passion project focused on improving developer–user communication without bloat.
+EchoBox is an open-source passion project focused on improving developer & user communication without bloat.
 
 If you use it, star the repo and spread the word! ⭐
 
----
 
 ## 📄 License
 
