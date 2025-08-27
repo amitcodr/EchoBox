@@ -64,3 +64,10 @@ Pull requests, feedback, and suggestions are welcome!
 EchoBox is an open-source passion project focused on improving developer–user communication without bloat.
 
 If you use it, star the repo and spread the word! ⭐
+
+---
+
+## 📄 License
+
+EchoBox is licensed under the [MIT License](LICENSE).  
+You can freely use, modify, and distribute it in personal or commercial projects.
