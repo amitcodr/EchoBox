@@ -18,7 +18,6 @@ import androidx.compose.ui.graphics.Color
 import com.github.amitcodr.ui.compose.EchoBox
 
 class MainActivity : ComponentActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -30,18 +29,20 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     contentAlignment = Alignment.Center
                 ) {
-                    Button(onClick = { showEchoBox = true }) {
+                    Button(onClick = {
+                        showEchoBox = true
+                    }) {
                         Text("Open EchoBox")
                     }
 
                     if (showEchoBox) {
-                        EchoBox()
-                            .allowEmail("support@example.com")
-                            .setColor(Color.Blue)
-                            .onDismiss {
-                                showEchoBox = false
-                            }
-                            .show(activity = this@MainActivity)
+                        EchoBox(
+                            activity = this@MainActivity,
+                            email = "support@example.com",
+                            color = Color.Blue,
+                            onClose = { showEchoBox = false }
+                        )
+
                     }
                 }
             }
