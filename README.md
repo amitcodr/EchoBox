@@ -51,6 +51,21 @@ dependencies {
 
 [![](https://jitpack.io/v/amitcodr/EchoBox.svg)](https://jitpack.io/#amitcodr/EchoBox)
 
+### 3. Usage:
+```
+EchoBox(
+    activity = this, // pass your activity
+    email = "support@example.com", // optional, to send report via email
+    color = Color.Blue, // optional, customize theme color
+    onSubmit = { report ->
+        // handle submitted report here
+    },
+    onClose = {
+        // handle dialog close
+    }
+)
+```
+
 ## 📷 Demo
 
 <img src="https://github.com/user-attachments/assets/92f8baeb-892e-4cb8-8d15-3fe247e926f6" width="250">
