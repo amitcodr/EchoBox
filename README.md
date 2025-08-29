@@ -25,6 +25,32 @@ No setup, no log collection, no complexity.
 - Gather lightweight feedback on design changes
 - Provide a fallback feedback option when no backend exists
 
+## ⚙️ Installation
+
+EchoBox is available via [JitPack](https://jitpack.io).  
+
+Add it to your project in two simple steps:
+
+### 1. Add JitPack repository in your settings.gradle file:
+```
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+### 2. Add the library dependency in your app/build.gradle:
+```
+dependencies {
+    implementation "com.github.amitcodr:EchoBox:1.0.0"
+}
+```
+(Replace 1.0.0 with the latest version from JitPack)
+
+[![](https://jitpack.io/v/amitcodr/EchoBox.svg)](https://jitpack.io/#amitcodr/EchoBox)
+
 ## 📷 Demo
 
 <img src="https://github.com/user-attachments/assets/92f8baeb-892e-4cb8-8d15-3fe247e926f6" width="250">
