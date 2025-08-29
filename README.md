@@ -1,6 +1,6 @@
 # 📦 EchoBox
 
-**EchoBox** is a lightweight Android library for collecting user feedback inside your app with zero friction.
+**EchoBox** is a lightweight Android Jetpack Compose library for collecting user feedback inside your app with zero friction.
 
 <img width="270" height="600" alt="Image" src="https://github.com/user-attachments/assets/1eb72ce8-5ddb-44be-86e1-111e45c85bbb" />
 
