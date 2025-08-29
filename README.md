@@ -27,7 +27,7 @@ No setup, no log collection, no complexity.
 
 ## 📷 Demo
 
-![demo](https://github.com/user-attachments/assets/92f8baeb-892e-4cb8-8d15-3fe247e926f6)
+<img src="https://github.com/user-attachments/assets/92f8baeb-892e-4cb8-8d15-3fe247e926f6" width="250">
 
 
 ## 🚧 What's next?
