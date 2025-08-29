@@ -2,8 +2,7 @@
 
 **EchoBox** is a lightweight Android library for collecting user feedback inside your app with zero friction.
 
-Whether you're building a hobby app, an indie project, or a production app without heavy analytics tools, EchoBox lets your users quickly tell you what they think right from the app.
-
+<img width="270" height="600" alt="Image" src="https://github.com/user-attachments/assets/1eb72ce8-5ddb-44be-86e1-111e45c85bbb" />
 
 ## ✨ Why use EchoBox?
 
@@ -26,18 +25,9 @@ No setup, no log collection, no complexity.
 - Gather lightweight feedback on design changes
 - Provide a fallback feedback option when no backend exists
 
-## 📷 Screenshots
+## 📷 Demo
 
-
-
-
-## 🛠 Features
-
-- Supports both **Jetpack Compose** and **XML**
-- Small footprint (built to be simple)
-- Automatically includes app version, device model, and OS version
-- One line trigger from anywhere in your app
-- No need for complex analytics or feedback SDKs
+![demo](https://github.com/user-attachments/assets/92f8baeb-892e-4cb8-8d15-3fe247e926f6)
 
 
 ## 🚧 What's next?
